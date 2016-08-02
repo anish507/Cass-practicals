@@ -1,8 +1,10 @@
+#include<iostream.h>
 #include<stdio.h>
 #include<conio.h>
 
-void Main()
+int Main()
 {
 printf("Hello ");
 getch();
+return 0;
 }
