@@ -7,4 +7,6 @@ int Main()
 printf("Hello ");
 getch();
 return 0;
+
+  //cass practical
 }
