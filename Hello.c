@@ -1,8 +1,12 @@
+#include<iostream.h>
 #include<stdio.h>
 #include<conio.h>
 
-void Main()
+int Main()
 {
 printf("Hi ");
 getch();
+return 0;
+
+  //cass practical
 }
